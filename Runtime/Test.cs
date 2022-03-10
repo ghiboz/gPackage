@@ -5,6 +5,7 @@ using UnityEngine;
 public class Test : MonoBehaviour
 {
     [SerializeField] int counter = 0;
+    [SerializeField] int limit = 2000;
     
     // Start is called before the first frame update
     void Start()
@@ -19,7 +20,8 @@ public class Test : MonoBehaviour
         // v1.0.0 => 2000
         // v1.0.1 => 1000
         // v1.0.2 => 3000
-        if (counter > 500)
+        // v1.0.3 => 500
+        if (counter > limit)
         {
             counter = 0;
         }
