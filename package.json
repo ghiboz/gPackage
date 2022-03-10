@@ -1,5 +1,5 @@
 {
-    "name": "com.ghiboz.gPackage",
+    "name": "ghiboz.gPackage",
     "version": "1.0.0",
     "displayName": "First test",
     "description": "This is an example package",
@@ -9,9 +9,9 @@
     "changelogUrl": "https://ghiboz.com/changelog.html",
     "licensesUrl": "https://ghiboz.com/licensing.html",
     "keywords": [
-        "keyword1",
-        "keyword2",
-        "keyword3"
+        "ghiboz",
+        "package",
+        "test"
     ],
     "author": {
         "name": "Paolo 'ghiboz' Ghibaudo",
