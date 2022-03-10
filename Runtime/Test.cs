@@ -16,7 +16,8 @@ public class Test : MonoBehaviour
     void Update()
     {
         counter++;
-        if (counter > 2000)
+        // v1.0.0 => 2000
+        if (counter > 1000)
         {
             counter = 0;
         }
