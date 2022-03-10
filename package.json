@@ -1,0 +1,20 @@
+{
+    "name": "com.ghiboz.gPackage",
+    "version": "1.0.0",
+    "displayName": "First test",
+    "description": "This is an example package",
+    "unity": "2019.1",
+    "unityRelease": "0b5",
+    "documentationUrl": "https://ghiboz.com/",
+    "changelogUrl": "https://ghiboz.com/changelog.html",
+    "licensesUrl": "https://ghiboz.com/licensing.html",
+    "keywords": [
+        "keyword1",
+        "keyword2",
+        "keyword3"
+    ],
+    "author": {
+        "name": "Paolo 'ghiboz' Ghibaudo",
+        "url": "https://www.ghiboz.com"
+    }
+  }
