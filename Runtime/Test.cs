@@ -17,7 +17,8 @@ public class Test : MonoBehaviour
     {
         counter++;
         // v1.0.0 => 2000
-        if (counter > 1000)
+        // v1.0.1 => 1000
+        if (counter > 3000)
         {
             counter = 0;
         }
