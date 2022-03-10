@@ -1,5 +1,5 @@
 {
-    "name": " gPackage Editor",
+    "name": "com.ghiboz.gPackage.Editor",
     "rootNamespace": "",
     "references": [],
     "includePlatforms": [],

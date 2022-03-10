@@ -1,5 +1,5 @@
 {
-    "name": "gPackage",
+    "name": "com.ghiboz.gPackage",
     "rootNamespace": "",
     "references": [],
     "includePlatforms": [],
